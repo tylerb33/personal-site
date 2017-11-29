@@ -123,7 +123,9 @@
 }
 
 .rounded-profile-pic {
-  border-radius: 100%;
+  border-radius: 50%;
+  width: 300px;
+  height: 450px;
 }
 
 .vinyl-small {
@@ -134,3 +136,13 @@
   max-height: 350px;
 }
 
+.fa-envelope-o {
+  font-size: 150px;
+  text-decoration: none;
+}
+
+.mail-center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
